@@ -1,0 +1,78 @@
+Total Annual Carbon Footprint: 46582.50 kg CO2
+# Emissions Report and Recommendations
+
+## 1. Comparisons to National (USA) and Global Averages
+
+To help you understand your emissions in context, I've compiled your data alongside available national and global averages. Economic and lifestyle factors significantly influence emissions, and your figures will be compared with average data points.
+
+### Electricity Emissions
+
+- **Your Emissions**: 460.00 kg CO2
+- **U.S. Average**: Approximately 4,400 kg CO2 per year per person (Source: Center for Sustainable Systems, University of Michigan)
+- **Global Average**: Estimated at around 970 kg CO2 per person per year (Source: Our World in Data)
+
+### Gas Emissions
+
+- **Your Emissions**: 4,240.00 kg CO2
+- **U.S. Average**: Approximately 2,150 kg CO2 per year per person, depending on heating requirements and gas use (Source: varies; derived from overall energy use)
+- **Global Average**: Data specifically for gas emissions may vary, but total energy-related emissions per capita are significantly lower globally than in the U.S., often due to differences in energy sources.
+
+### Transport Emissions
+
+- **Your Emissions**: 40,520.00 kg CO2
+- **U.S. Average**: Approximately 4,600 kg CO2 per year per person, largely due to high car dependency (Source: EPA)
+- **Global Average**: Around 1,000 kg CO2 per person per year, varying significantly with urbanization and public transport availability (Source: Our World in Data)
+
+### Flight Emissions
+
+- **Your Emissions**: 360.00 kg CO2
+- **U.S. Average**: Around 1,000 kg CO2 per year per person from flights (Source: Center for Sustainable Systems)
+- **Global Average**: Typically lower than U.S. averages due to fewer flight-related emissions per capita globally.
+
+### Diet Emissions
+
+- **Your Emissions**: 912.50 kg CO2
+- **U.S. Average**: Estimated at around 2,000 kg CO2 per year per person, highly variable based on diet types (Source: Center for Sustainable Systems)
+- **Global Average**: Varies significantly but is generally lower than U.S. averages, especially in predominantly plant-based diet regions.
+
+### Waste Emissions
+
+- **Your Emissions**: 90.00 kg CO2
+- **U.S. Average**: Around 200 kg CO2 per year per person (Source: varies; much of this is waste processing)
+- **Global Average**: Typically lower, though waste management systems vary widely.
+
+## 2. Personalized Recommendations
+
+Based on your emissions data, here are some personalized recommendations for reducing your carbon footprint:
+
+### Electricity
+
+- **Increase Efficiency**: Consider upgrading to energy-efficient appliances and lighting. Utilize smart meters to monitor and adjust electricity use.
+- **Renewable Energy**: Explore options for purchasing green power from your utility or installing solar panels if feasible.
+
+### Gas
+
+- **Improved Insulation**: Ensure your home is well-insulated to reduce heating needs. Weatherproof doors and windows to minimize drafts.
+- **Programmable Thermostats**: Use programmable thermostats to reduce heating when it’s not needed.
+
+### Transport
+
+- **Car Alternatives**: Whenever possible, consider walking, biking, carpooling, or using public transportation.
+- **Efficient Vehicles**: If driving is necessary, consider transitioning to a hybrid or electric vehicle.
+
+### Flight
+
+- **Offset Carbon**: If air travel is unavoidable, consider purchasing carbon offsets.
+- **Combine Trips**: Try to combine trips to reduce the number of flights needed.
+
+### Diet
+
+- **Plant-Based Choices**: Increase the proportion of plant-based meals and reduce red meat consumption, where feasible.
+- **Local Foods**: Buying local, seasonal foods can also cut down on emissions associated with long-distance transportation.
+
+### Waste
+
+- **Reduce, Reuse, Recycle**: Focus on reducing waste by minimizing single-use items, reusing goods, and participating in recycling programs.
+- **Composting**: Start composting organic waste to reduce your landfill contributions.
+
+Incorporating even a few of these changes can considerably lower your emissions. Understanding your impact is the first step towards impactful improvements.
